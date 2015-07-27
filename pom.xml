@@ -41,7 +41,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.amazonaws.samples.DynamoDBSample</mainClass>
+                    <mainClass>com.amazonaws.samples.StreamSample</mainClass>
                 </configuration>
             </plugin>
         </plugins>
